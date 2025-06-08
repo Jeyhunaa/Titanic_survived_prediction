@@ -10,5 +10,4 @@ This project predicts passenger survival on the Titanic using machine learning. 
 - Prediction of survival outcomes
 
 ## Dataset
-This project uses the Titanic dataset (CSV file included).
 This project uses the Titanic dataset. You can find it here: [Titanic-Dataset.csv](Titanic-Dataset.csv)
