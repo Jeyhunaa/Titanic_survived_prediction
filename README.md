@@ -1,4 +1,4 @@
-# Titanic_survived_prediction
+# Titanic_survival_prediction
 
 This project predicts passenger survival on the Titanic using machine learning. It analyzes the Titanic dataset and builds a model to classify whether a passenger survived or not.
 
